@@ -14,9 +14,9 @@ Follow these steps to setup your workspace:
 
 1. Download [MultiMC](https://multimc.org/#Download) and [Git](https://git-scm.com/downloads) if you haven't already.
 2. Open MultiMC.
-3. Click Add Instance, choose Minecraft 1.16.5, click Ok.
-4. Click Edit Instance.
-5. Click Install Forge, pick the latest version.
+3. Click Add Instance, choose "From ZIP", use provided DEV pack.
+4. Click Edit Instance, check your Java settings
+
 
 #### Repository Setup
 
@@ -24,9 +24,9 @@ Follow these steps to setup your workspace:
 7. Open the folder of the MultiMC Instance you made (step 1-5), and go into the .minecraft folder - Open a terminal/command line and use the following commands:
 
 ```sh
-git init                                            # Initialize git in folder
-git remote add origin URLToYourForkOfTheModpack     # Set remote origin to your fork of the modpack
-git remote -v                                       # Verify remote
+git init                                                     # Initialize git in folder
+git remote add origin https://github.com/Kamisoi/Everfall    # Set remote origin to your fork of the modpack
+git remote -v                                                # Verify remote
 git fetch
 git checkout main
 git pull
