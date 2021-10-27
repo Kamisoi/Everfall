@@ -1,0 +1,908 @@
+Entity: Kamisoi [registry name: minecraft:player] (entityId: 155)
+Entity class: net.minecraft.entity.player.ServerPlayerEntity
+
+
+[TAG_Compound (45 values)] 
+{
+    [TAG_List (0 values of type ?)] "ACTrackedData"
+    [
+    ]
+    [TAG_Float] "AbsorptionAmount": 0.0
+    [TAG_Short] "Air": 300
+    [TAG_List (8 values of type TAG_Compound)] "Attributes"
+    [
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "minecraft:generic.knockback_resistance"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 1.0
+            [TAG_String] "Name": "forge:swim_speed"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Double] "Base": 5.0
+            [TAG_List (1 values of type TAG_Compound)] "Modifiers"
+            [
+                [TAG_Compound (4 values)] 
+                {
+                    [TAG_Double] "Amount": 50.0
+                    [TAG_String] "Name": "Reach bonus thanks to Build Level"
+                    [TAG_Int] "Operation": 0
+                    [TAG_Int_Array (4 entries)] "UUID"
+                    [
+                          0: 0xB20D3436 (-1307757514)
+                          1: 0x0D394868 (221857896)
+                          2: 0x96ABD0A4 (-1767124828)
+                          3: 0x856E68C6 (-2056361786)
+                    ]
+                }
+            ]
+            [TAG_String] "Name": "forge:reach_distance"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.08
+            [TAG_String] "Name": "forge:entity_gravity"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Double] "Base": 1.0
+            [TAG_List (1 values of type TAG_Compound)] "Modifiers"
+            [
+                [TAG_Compound (4 values)] 
+                {
+                    [TAG_Double] "Amount": 0.005
+                    [TAG_String] "Name": "Damage Boost thanks to Combat Level"
+                    [TAG_Int] "Operation": 1
+                    [TAG_Int_Array (4 entries)] "UUID"
+                    [
+                          0: 0x992B11F1 (-1725230607)
+                          1: 0x7B3F48D9 (2067744985)
+                          2: 0x8EBD1ACF (-1900209457)
+                          3: 0xC3257B17 (-1020953833)
+                    ]
+                }
+            ]
+            [TAG_String] "Name": "minecraft:generic.attack_damage"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Double] "Base": 20.0
+            [TAG_List (1 values of type TAG_Compound)] "Modifiers"
+            [
+                [TAG_Compound (4 values)] 
+                {
+                    [TAG_Double] "Amount": 0.0
+                    [TAG_String] "Name": "Max HP Bonus thanks to Endurance Level"
+                    [TAG_Int] "Operation": 0
+                    [TAG_Int_Array (4 entries)] "UUID"
+                    [
+                          0: 0xC95A6E8C (-916820340)
+                          1: 0xA1C34177 (-1581039241)
+                          2: 0x91181E2C (-1860690388)
+                          3: 0xF49B7FCB (-191135797)
+                    ]
+                }
+            ]
+            [TAG_String] "Name": "minecraft:generic.max_health"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.10000000149011612
+            [TAG_String] "Name": "minecraft:generic.movement_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "caelus:elytra_flight"
+        }
+    ]
+    [TAG_List (6 values of type TAG_Double)] "BoundingBox"
+    [
+        [TAG_Double] : 2103.0989338753193
+        [TAG_Double] : 70.0
+        [TAG_Double] : -4746.504582782821
+        [TAG_Double] : 2103.698933899161
+        [TAG_Double] : 71.79999995231628
+        [TAG_Double] : -4745.904582758979
+    ]
+    [TAG_Compound (1 values)] "Brain"
+    {
+        [TAG_Compound (0 values)] "memories"
+        {
+        }
+    }
+    [TAG_Byte] "CanUpdate": 1
+    [TAG_Compound (0 values)] "CitadelData"
+    {
+    }
+    [TAG_Int] "DataVersion": 2586
+    [TAG_Short] "DeathTime": 0
+    [TAG_String] "Dimension": "minecraft:overworld"
+    [TAG_List (0 values of type ?)] "EnderItems"
+    [
+    ]
+    [TAG_Float] "FallDistance": 0.0
+    [TAG_Byte] "FallFlying": 0
+    [TAG_Short] "Fire": -20
+    [TAG_Compound (17 values)] "ForgeCaps"
+    {
+        [TAG_Compound (0 values)] "ars_nouveau:familiar"
+        {
+        }
+        [TAG_Compound (4 values)] "ars_nouveau:mana"
+        {
+            [TAG_Int] "book_tier": 0
+            [TAG_Double] "current": 100.0
+            [TAG_Int] "glyph": 0
+            [TAG_Int] "max": 100
+        }
+        [TAG_Compound (0 values)] "citadel:extended_entity_data_citadel"
+        {
+        }
+        [TAG_Compound (2 values)] "curios:inventory"
+        {
+            [TAG_List (11 values of type TAG_Compound)] "Curios"
+            [
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "head"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "necklace"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "back"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "an_focus"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "body"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "createplus.goggle_slot"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "glasses"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "bracelet"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (2 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 1
+                                }
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "ring"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (2 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 1
+                                }
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 2
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "belt"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+                [TAG_Compound (2 values)] 
+                {
+                    [TAG_String] "Identifier": "charm"
+                    [TAG_Compound (6 values)] "StacksHandler"
+                    {
+                        [TAG_Compound (2 values)] "Cosmetics"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "HasCosmetic": 0
+                        [TAG_Compound (2 values)] "Renders"
+                        {
+                            [TAG_List (1 values of type TAG_Compound)] "Renders"
+                            [
+                                [TAG_Compound (2 values)] 
+                                {
+                                    [TAG_Byte] "Render": 1
+                                    [TAG_Int] "Slot": 0
+                                }
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Int] "SizeShift": 0
+                        [TAG_Compound (2 values)] "Stacks"
+                        {
+                            [TAG_List (0 values of type ?)] "Items"
+                            [
+                            ]
+                            [TAG_Int] "Size": 1
+                        }
+                        [TAG_Byte] "Visible": 1
+                    }
+                }
+            ]
+            [TAG_List (0 values of type ?)] "Locked"
+            [
+            ]
+        }
+        [TAG_Compound (8 values)] "diet:diet_tracker"
+        {
+            [TAG_Byte] "Active": 1
+            [TAG_List (0 values of type ?)] "Eaten"
+            [
+            ]
+            [TAG_List (0 values of type ?)] "Modifiers"
+            [
+            ]
+            [TAG_Float] "fruits": 0.0
+            [TAG_Float] "grains": 0.0
+            [TAG_Float] "proteins": 0.0
+            [TAG_Float] "sugars": 0.0
+            [TAG_Float] "vegetables": 0.0
+        }
+        [TAG_Compound (2 values)] "eidolon:knowledge"
+        {
+            [TAG_List (0 values of type ?)] "facts"
+            [
+            ]
+            [TAG_List (0 values of type ?)] "signs"
+            [
+            ]
+        }
+        [TAG_Compound (9 values)] "firstaid:cap_adv_dmg_mdl"
+        {
+            [TAG_Compound (2 values)] "body"
+            {
+                [TAG_Float] "health": 6.0
+                [TAG_Int] "maxHealth": 6
+            }
+            [TAG_Byte] "hasTutorial": 0
+            [TAG_Compound (2 values)] "head"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "leftArm"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "leftFoot"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "leftLeg"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "rightArm"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "rightFoot"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+            [TAG_Compound (2 values)] "rightLeg"
+            {
+                [TAG_Float] "health": 4.0
+                [TAG_Int] "maxHealth": 4
+            }
+        }
+        [TAG_Compound (2 values)] "jecalculation:record"
+        {
+            [TAG_String] "last": ""
+            [TAG_Compound (0 values)] "recipes"
+            {
+            }
+        }
+        [TAG_Compound (4 values)] "losttrinkets:player_data"
+        {
+            [TAG_Byte] "allow_flying": 0
+            [TAG_Compound (4 values)] "trinkets"
+            {
+                [TAG_List (0 values of type ?)] "active_trinkets"
+                [
+                ]
+                [TAG_List (0 values of type ?)] "available_trinkets"
+                [
+                ]
+                [TAG_Int] "slots": 1
+                [TAG_Byte] "slots_set": 1
+            }
+            [TAG_Long] "unlock_delay": 0
+            [TAG_Byte] "was_flying": 0
+        }
+        [TAG_Compound (1 values)] "mekanism:radiation"
+        {
+            [TAG_Double] "radiation": 1.0E-7
+        }
+        [TAG_Compound (1 values)] "silentgems:chaos_source"
+        {
+            [TAG_Int] "Chaos": 0
+        }
+        [TAG_Compound (1 values)] "theoneprobe:properties"
+        {
+            [TAG_Byte] "gotNote": 1
+        }
+        [TAG_Compound (2 values)] "toolbelt:belt_slot"
+        {
+            [TAG_List (0 values of type ?)] "Items"
+            [
+            ]
+            [TAG_Int] "Size": 1
+        }
+        [TAG_Compound (0 values)] "valhelsia_core:counters"
+        {
+        }
+        [TAG_Compound (4 values)] "vampirism:hunter"
+        {
+            [TAG_Compound (0 values)] "actions_active"
+            {
+            }
+            [TAG_Compound (0 values)] "actions_cooldown"
+            {
+            }
+            [TAG_Compound (3 values)] "refinement_set"
+            {
+                [TAG_Compound (2 values)] "0"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+                [TAG_Compound (2 values)] "1"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+                [TAG_Compound (2 values)] "2"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+            }
+            [TAG_Compound (0 values)] "skills"
+            {
+            }
+        }
+        [TAG_Compound (2 values)] "vampirism:ifactionplayerhandler"
+        {
+            [TAG_Compound (0 values)] "bound_actions"
+            {
+            }
+            [TAG_Byte] "title_gender": 1
+        }
+        [TAG_Compound (12 values)] "vampirism:vampire"
+        {
+            [TAG_Compound (0 values)] "actions_active"
+            {
+            }
+            [TAG_Compound (0 values)] "actions_cooldown"
+            {
+            }
+            [TAG_Float] "bloodExhaustion": 0.0
+            [TAG_Int] "bloodLevel": 20
+            [TAG_Float] "bloodSaturation": 5.0
+            [TAG_Int] "bloodTimer": 0
+            [TAG_Int] "eye_type": 0
+            [TAG_Int] "fang_type": 0
+            [TAG_Byte] "glowing_eyes": 0
+            [TAG_Int] "maxBlood": 20
+            [TAG_Compound (3 values)] "refinement_set"
+            {
+                [TAG_Compound (2 values)] "0"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+                [TAG_Compound (2 values)] "1"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+                [TAG_Compound (2 values)] "2"
+                {
+                    [TAG_Int] "damage": 0
+                    [TAG_String] "id": "none"
+                }
+            }
+            [TAG_Compound (0 values)] "skills"
+            {
+            }
+        }
+    }
+    [TAG_Compound (1 values)] "ForgeData"
+    {
+        [TAG_Compound (6 values)] "PlayerPersisted"
+        {
+            [TAG_Compound (1 values)] "WaystonesData"
+            {
+                [TAG_List (0 values of type ?)] "Waystones"
+                [
+                ]
+            }
+            [TAG_Byte] "alexsmobs_has_book": 1
+            [TAG_Byte] "an_book_": 1
+            [TAG_Byte] "ap_played_before": 1
+            [TAG_Byte] "integrateddynamics:infoBookSpawned": 1
+            [TAG_Compound (1 values)] "silentlib.SpawnItemsGiven"
+            {
+                [TAG_Byte] "silentgear.starter_blueprints": 1
+            }
+        }
+    }
+    [TAG_Float] "Health": 20.0
+    [TAG_Int] "HurtByTimestamp": 0
+    [TAG_Short] "HurtTime": 0
+    [TAG_List (8 values of type TAG_Compound)] "Inventory"
+    [
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "LapisReserve": 0
+            [TAG_String] "id": "minecraft:air"
+            [TAG_Compound (0 values)] "tag"
+            {
+            }
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 0
+            [TAG_String] "id": "patchouli:guide_book"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_String] "patchouli:book": "advancedperipherals:manual"
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 1
+            [TAG_String] "id": "astralsorcery:tome"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 2
+            [TAG_String] "id": "alexsmobs:animal_dictionary"
+        }
+        [TAG_Compound (4 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 3
+            [TAG_String] "id": "silentgear:blueprint_package"
+            [TAG_Compound (1 values)] "tag"
+            {
+                [TAG_Compound (1 values)] "silentlib.LootContainer"
+                {
+                    [TAG_String] "LootTable": "silentgear:starter_blueprints"
+                }
+            }
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 4
+            [TAG_String] "id": "theoneprobe:probenote"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 5
+            [TAG_String] "id": "ars_nouveau:worn_notebook"
+        }
+        [TAG_Compound (3 values)] 
+        {
+            [TAG_Byte] "Count": 1
+            [TAG_Byte] "Slot": 6
+            [TAG_String] "id": "integrateddynamics:on_the_dynamics_of_integration"
+        }
+    ]
+    [TAG_Byte] "Invulnerable": 0
+    [TAG_List (3 values of type TAG_Double)] "Motion"
+    [
+        [TAG_Double] : 0.0
+        [TAG_Double] : -0.0784000015258789
+        [TAG_Double] : 0.0
+    ]
+    [TAG_Byte] "OnGround": 1
+    [TAG_Int] "PortalCooldown": 0
+    [TAG_List (3 values of type TAG_Double)] "Pos"
+    [
+        [TAG_Double] : 2103.39893388724
+        [TAG_Double] : 70.0
+        [TAG_Double] : -4746.2045827709
+    ]
+    [TAG_List (2 values of type TAG_Float)] "Rotation"
+    [
+        [TAG_Float] : 270.46582
+        [TAG_Float] : 37.35052
+    ]
+    [TAG_Int] "Score": 0
+    [TAG_Int] "SelectedItemSlot": 7
+    [TAG_Short] "SleepTimer": 0
+    [TAG_Int_Array (4 entries)] "UUID"
+    [
+          0: 0x02673AAD (40319661)
+          1: 0xCB58455B (-883407525)
+          2: 0x93BB124F (-1816456625)
+          3: 0x0E78F75D (242808669)
+    ]
+    [TAG_Int] "XpLevel": 0
+    [TAG_Float] "XpP": 0.0
+    [TAG_Int] "XpSeed": 882052616
+    [TAG_Int] "XpTotal": 0
+    [TAG_Compound (7 values)] "abilities"
+    {
+        [TAG_Float] "flySpeed": 0.05
+        [TAG_Byte] "flying": 0
+        [TAG_Byte] "instabuild": 1
+        [TAG_Byte] "invulnerable": 1
+        [TAG_Byte] "mayBuild": 1
+        [TAG_Byte] "mayfly": 1
+        [TAG_Float] "walkSpeed": 0.1
+    }
+    [TAG_String] "fireType": "fire"
+    [TAG_Float] "foodExhaustionLevel": 0.0
+    [TAG_Int] "foodLevel": 20
+    [TAG_Float] "foodSaturationLevel": 5.0
+    [TAG_Int] "foodTickTimer": 0
+    [TAG_Int] "playerGameType": 1
+    [TAG_Int] "previousPlayerGameType": -1
+    [TAG_Compound (10 values)] "recipeBook"
+    {
+        [TAG_Byte] "isBlastingFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isBlastingFurnaceGuiOpen": 0
+        [TAG_Byte] "isFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceGuiOpen": 0
+        [TAG_Byte] "isGuiOpen": 0
+        [TAG_Byte] "isSmokerFilteringCraftable": 0
+        [TAG_Byte] "isSmokerGuiOpen": 0
+        [TAG_List (0 values of type ?)] "recipes"
+        [
+        ]
+        [TAG_List (0 values of type ?)] "toBeDisplayed"
+        [
+        ]
+    }
+    [TAG_Byte] "seenCredits": 0
+}

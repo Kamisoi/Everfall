@@ -1,0 +1,547 @@
+"Mod name","Registry name","Entity class name","ID"
+"Abnormals Core","abnormals_core:boat","com.minecraftabnormals.abnormals_core.common.entity.AbnormalsBoatEntity",422
+"Alex's Mobs","alexsmobs:alligator_snapping_turtle","com.github.alexthe666.alexsmobs.entity.EntityAlligatorSnappingTurtle",292
+"Alex's Mobs","alexsmobs:bald_eagle","com.github.alexthe666.alexsmobs.entity.EntityBaldEagle",314
+"Alex's Mobs","alexsmobs:blobfish","com.github.alexthe666.alexsmobs.entity.EntityBlobfish",282
+"Alex's Mobs","alexsmobs:bone_serpent","com.github.alexthe666.alexsmobs.entity.EntityBoneSerpent",256
+"Alex's Mobs","alexsmobs:bone_serpent_part","com.github.alexthe666.alexsmobs.entity.EntityBoneSerpentPart",257
+"Alex's Mobs","alexsmobs:cachalot_echo","com.github.alexthe666.alexsmobs.entity.EntityCachalotEcho",310
+"Alex's Mobs","alexsmobs:cachalot_whale","com.github.alexthe666.alexsmobs.entity.EntityCachalotWhale",309
+"Alex's Mobs","alexsmobs:capuchin_monkey","com.github.alexthe666.alexsmobs.entity.EntityCapuchinMonkey",273
+"Alex's Mobs","alexsmobs:centipede_body","com.github.alexthe666.alexsmobs.entity.EntityCentipedeBody",276
+"Alex's Mobs","alexsmobs:centipede_head","com.github.alexthe666.alexsmobs.entity.EntityCentipedeHead",275
+"Alex's Mobs","alexsmobs:centipede_tail","com.github.alexthe666.alexsmobs.entity.EntityCentipedeTail",277
+"Alex's Mobs","alexsmobs:cockroach","com.github.alexthe666.alexsmobs.entity.EntityCockroach",284
+"Alex's Mobs","alexsmobs:cockroach_egg","com.github.alexthe666.alexsmobs.entity.EntityCockroachEgg",285
+"Alex's Mobs","alexsmobs:crimson_mosquito","com.github.alexthe666.alexsmobs.entity.EntityCrimsonMosquito",265
+"Alex's Mobs","alexsmobs:crocodile","com.github.alexthe666.alexsmobs.entity.EntityCrocodile",259
+"Alex's Mobs","alexsmobs:crow","com.github.alexthe666.alexsmobs.entity.EntityCrow",291
+"Alex's Mobs","alexsmobs:dropbear","com.github.alexthe666.alexsmobs.entity.EntityDropBear",306
+"Alex's Mobs","alexsmobs:elephant","com.github.alexthe666.alexsmobs.entity.EntityElephant",287
+"Alex's Mobs","alexsmobs:emu","com.github.alexthe666.alexsmobs.entity.EntityEmu",303
+"Alex's Mobs","alexsmobs:emu_egg","com.github.alexthe666.alexsmobs.entity.EntityEmuEgg",304
+"Alex's Mobs","alexsmobs:endergrade","com.github.alexthe666.alexsmobs.entity.EntityEndergrade",268
+"Alex's Mobs","alexsmobs:enderiophage","com.github.alexthe666.alexsmobs.entity.EntityEnderiophage",312
+"Alex's Mobs","alexsmobs:enderiophage_rocket","com.github.alexthe666.alexsmobs.entity.EntityEnderiophageRocket",313
+"Alex's Mobs","alexsmobs:fly","com.github.alexthe666.alexsmobs.entity.EntityFly",260
+"Alex's Mobs","alexsmobs:frilled_shark","com.github.alexthe666.alexsmobs.entity.EntityFrilledShark",321
+"Alex's Mobs","alexsmobs:gazelle","com.github.alexthe666.alexsmobs.entity.EntityGazelle",258
+"Alex's Mobs","alexsmobs:gorilla","com.github.alexthe666.alexsmobs.entity.EntityGorilla",264
+"Alex's Mobs","alexsmobs:grizzly_bear","com.github.alexthe666.alexsmobs.entity.EntityGrizzlyBear",254
+"Alex's Mobs","alexsmobs:gust","com.github.alexthe666.alexsmobs.entity.EntityGust",297
+"Alex's Mobs","alexsmobs:guster","com.github.alexthe666.alexsmobs.entity.EntityGuster",295
+"Alex's Mobs","alexsmobs:hammerhead_shark","com.github.alexthe666.alexsmobs.entity.EntityHammerheadShark",269
+"Alex's Mobs","alexsmobs:hemolymph","com.github.alexthe666.alexsmobs.entity.EntityHemolymph",299
+"Alex's Mobs","alexsmobs:hummingbird","com.github.alexthe666.alexsmobs.entity.EntityHummingbird",261
+"Alex's Mobs","alexsmobs:kangaroo","com.github.alexthe666.alexsmobs.entity.EntityKangaroo",308
+"Alex's Mobs","alexsmobs:komodo_dragon","com.github.alexthe666.alexsmobs.entity.EntityKomodoDragon",272
+"Alex's Mobs","alexsmobs:leafcutter_ant","com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt",311
+"Alex's Mobs","alexsmobs:lobster","com.github.alexthe666.alexsmobs.entity.EntityLobster",271
+"Alex's Mobs","alexsmobs:mantis_shrimp","com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp",294
+"Alex's Mobs","alexsmobs:mimic_octopus","com.github.alexthe666.alexsmobs.entity.EntityMimicOctopus",322
+"Alex's Mobs","alexsmobs:mimicube","com.github.alexthe666.alexsmobs.entity.EntityMimicube",280
+"Alex's Mobs","alexsmobs:moose","com.github.alexthe666.alexsmobs.entity.EntityMoose",279
+"Alex's Mobs","alexsmobs:mosquito_spit","com.github.alexthe666.alexsmobs.entity.EntityMosquitoSpit",266
+"Alex's Mobs","alexsmobs:mungus","com.github.alexthe666.alexsmobs.entity.EntityMungus",293
+"Alex's Mobs","alexsmobs:orca","com.github.alexthe666.alexsmobs.entity.EntityOrca",262
+"Alex's Mobs","alexsmobs:platypus","com.github.alexthe666.alexsmobs.entity.EntityPlatypus",305
+"Alex's Mobs","alexsmobs:raccoon","com.github.alexthe666.alexsmobs.entity.EntityRaccoon",281
+"Alex's Mobs","alexsmobs:rattlesnake","com.github.alexthe666.alexsmobs.entity.EntityRattlesnake",267
+"Alex's Mobs","alexsmobs:roadrunner","com.github.alexthe666.alexsmobs.entity.EntityRoadrunner",255
+"Alex's Mobs","alexsmobs:sand_shot","com.github.alexthe666.alexsmobs.entity.EntitySandShot",296
+"Alex's Mobs","alexsmobs:seagull","com.github.alexthe666.alexsmobs.entity.EntitySeagull",323
+"Alex's Mobs","alexsmobs:seal","com.github.alexthe666.alexsmobs.entity.EntitySeal",283
+"Alex's Mobs","alexsmobs:shark_tooth_arrow","com.github.alexthe666.alexsmobs.entity.EntitySharkToothArrow",270
+"Alex's Mobs","alexsmobs:shoebill","com.github.alexthe666.alexsmobs.entity.EntityShoebill",286
+"Alex's Mobs","alexsmobs:snow_leopard","com.github.alexthe666.alexsmobs.entity.EntitySnowLeopard",289
+"Alex's Mobs","alexsmobs:soul_vulture","com.github.alexthe666.alexsmobs.entity.EntitySoulVulture",288
+"Alex's Mobs","alexsmobs:spectre","com.github.alexthe666.alexsmobs.entity.EntitySpectre",290
+"Alex's Mobs","alexsmobs:straddleboard","com.github.alexthe666.alexsmobs.entity.EntityStraddleboard",302
+"Alex's Mobs","alexsmobs:straddler","com.github.alexthe666.alexsmobs.entity.EntityStraddler",300
+"Alex's Mobs","alexsmobs:stradpole","com.github.alexthe666.alexsmobs.entity.EntityStradpole",301
+"Alex's Mobs","alexsmobs:sunbird","com.github.alexthe666.alexsmobs.entity.EntitySunbird",263
+"Alex's Mobs","alexsmobs:tarantula_hawk","com.github.alexthe666.alexsmobs.entity.EntityTarantulaHawk",316
+"Alex's Mobs","alexsmobs:tasmanian_devil","com.github.alexthe666.alexsmobs.entity.EntityTasmanianDevil",307
+"Alex's Mobs","alexsmobs:tiger","com.github.alexthe666.alexsmobs.entity.EntityTiger",315
+"Alex's Mobs","alexsmobs:tossed_item","com.github.alexthe666.alexsmobs.entity.EntityTossedItem",274
+"Alex's Mobs","alexsmobs:void_portal","com.github.alexthe666.alexsmobs.entity.EntityVoidPortal",320
+"Alex's Mobs","alexsmobs:void_worm","com.github.alexthe666.alexsmobs.entity.EntityVoidWorm",317
+"Alex's Mobs","alexsmobs:void_worm_part","com.github.alexthe666.alexsmobs.entity.EntityVoidWormPart",318
+"Alex's Mobs","alexsmobs:void_worm_shot","com.github.alexthe666.alexsmobs.entity.EntityVoidWormShot",319
+"Alex's Mobs","alexsmobs:warped_mosco","com.github.alexthe666.alexsmobs.entity.EntityWarpedMosco",298
+"Alex's Mobs","alexsmobs:warped_toad","com.github.alexthe666.alexsmobs.entity.EntityWarpedToad",278
+"Aquamirae","ob_aquamirae:anglerfish","net.obscuria.aquamirae.entity.AnglerfishEntity$CustomEntity",144
+"Aquamirae","ob_aquamirae:drowned_captain","net.obscuria.aquamirae.entity.DrownedCaptainEntity$CustomEntity",152
+"Aquamirae","ob_aquamirae:golden_moth","net.obscuria.aquamirae.entity.GoldenMothEntity$CustomEntity",143
+"Aquamirae","ob_aquamirae:golden_statue","net.obscuria.aquamirae.entity.GoldenStatueEntity$CustomEntity",145
+"Aquamirae","ob_aquamirae:kelp_generator","net.obscuria.aquamirae.entity.KelpGeneratorEntity$CustomEntity",148
+"Aquamirae","ob_aquamirae:maw","net.obscuria.aquamirae.entity.MawEntity$CustomEntity",146
+"Aquamirae","ob_aquamirae:maze_generator","net.obscuria.aquamirae.entity.MazeGeneratorEntity$CustomEntity",149
+"Aquamirae","ob_aquamirae:maze_structure_generator","net.obscuria.aquamirae.entity.MazeStructureGeneratorEntity$CustomEntity",150
+"Aquamirae","ob_aquamirae:oxygelium_generator","net.obscuria.aquamirae.entity.OxygeliumGeneratorEntity$CustomEntity",147
+"Aquamirae","ob_aquamirae:pillagers_patrol","net.obscuria.aquamirae.entity.PillagersPatrolEntity$CustomEntity",151
+"Ars Nouveau","ars_nouveau:ally_vex","com.hollingsworth.arsnouveau.common.entity.EntityAllyVex",389
+"Ars Nouveau","ars_nouveau:an_lightning","com.hollingsworth.arsnouveau.common.entity.LightningEntity",403
+"Ars Nouveau","ars_nouveau:blazing_weald_walker","com.hollingsworth.arsnouveau.common.entity.WealdWalker",417
+"Ars Nouveau","ars_nouveau:carbuncle","com.hollingsworth.arsnouveau.common.entity.EntityCarbuncle",391
+"Ars Nouveau","ars_nouveau:cascading_weald_walker","com.hollingsworth.arsnouveau.common.entity.WealdWalker",416
+"Ars Nouveau","ars_nouveau:drygmy","com.hollingsworth.arsnouveau.common.entity.EntityDrygmy",405
+"Ars Nouveau","ars_nouveau:dummy","com.hollingsworth.arsnouveau.common.entity.EntityDummy",404
+"Ars Nouveau","ars_nouveau:familiar_bookwyrm","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarBookwyrm",410
+"Ars Nouveau","ars_nouveau:familiar_carbuncle","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarCarbuncle",409
+"Ars Nouveau","ars_nouveau:familiar_drygmy","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarDrygmy",414
+"Ars Nouveau","ars_nouveau:familiar_jabberwog","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarJabberwog",411
+"Ars Nouveau","ars_nouveau:familiar_sylph","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarSylph",413
+"Ars Nouveau","ars_nouveau:familiar_wixie","com.hollingsworth.arsnouveau.common.entity.familiar.FamiliarWixie",412
+"Ars Nouveau","ars_nouveau:fangs","com.hollingsworth.arsnouveau.common.entity.EntityEvokerFangs",388
+"Ars Nouveau","ars_nouveau:flourishing_weald_walker","com.hollingsworth.arsnouveau.common.entity.WealdWalker",419
+"Ars Nouveau","ars_nouveau:flying_item","com.hollingsworth.arsnouveau.common.entity.EntityFlyingItem",395
+"Ars Nouveau","ars_nouveau:follow_proj","com.hollingsworth.arsnouveau.common.entity.EntityFollowProjectile",393
+"Ars Nouveau","ars_nouveau:linger","com.hollingsworth.arsnouveau.common.entity.EntityLingeringSpell",415
+"Ars Nouveau","ars_nouveau:ritual","com.hollingsworth.arsnouveau.common.entity.EntityRitualProjectile",396
+"Ars Nouveau","ars_nouveau:spell_arrow","com.hollingsworth.arsnouveau.common.entity.EntitySpellArrow",398
+"Ars Nouveau","ars_nouveau:spell_proj","com.hollingsworth.arsnouveau.common.entity.EntityProjectileSpell",387
+"Ars Nouveau","ars_nouveau:spike","com.hollingsworth.arsnouveau.common.entity.EntityChimeraProjectile",408
+"Ars Nouveau","ars_nouveau:summon_horse","com.hollingsworth.arsnouveau.common.entity.SummonHorse",401
+"Ars Nouveau","ars_nouveau:summon_wolf","com.hollingsworth.arsnouveau.common.entity.SummonWolf",399
+"Ars Nouveau","ars_nouveau:sylph","com.hollingsworth.arsnouveau.common.entity.EntitySylph",392
+"Ars Nouveau","ars_nouveau:vexing_weald_walker","com.hollingsworth.arsnouveau.common.entity.WealdWalker",418
+"Ars Nouveau","ars_nouveau:ward_entity","com.hollingsworth.arsnouveau.common.entity.EntityOrbitProjectile",406
+"Ars Nouveau","ars_nouveau:whelp","com.hollingsworth.arsnouveau.common.entity.EntityBookwyrm",390
+"Ars Nouveau","ars_nouveau:wilden_boss","com.hollingsworth.arsnouveau.common.entity.EntityChimera",407
+"Ars Nouveau","ars_nouveau:wilden_guardian","com.hollingsworth.arsnouveau.common.entity.WildenGuardian",402
+"Ars Nouveau","ars_nouveau:wilden_hunter","com.hollingsworth.arsnouveau.common.entity.WildenHunter",397
+"Ars Nouveau","ars_nouveau:wilden_stalker","com.hollingsworth.arsnouveau.common.entity.WildenStalker",400
+"Ars Nouveau","ars_nouveau:wixie","com.hollingsworth.arsnouveau.common.entity.EntityWixie",394
+"Astral Sorcery","astralsorcery:flare","hellfirepvp.astralsorcery.common.entity.EntityFlare",219
+"Astral Sorcery","astralsorcery:grappling_hook","hellfirepvp.astralsorcery.common.entity.technical.EntityGrapplingHook",226
+"Astral Sorcery","astralsorcery:illumination_spark","hellfirepvp.astralsorcery.common.entity.EntityIlluminationSpark",218
+"Astral Sorcery","astralsorcery:item_crystal","hellfirepvp.astralsorcery.common.entity.item.EntityCrystal",223
+"Astral Sorcery","astralsorcery:item_explosion_resistant","hellfirepvp.astralsorcery.common.entity.item.EntityItemExplosionResistant",222
+"Astral Sorcery","astralsorcery:item_highlighted","hellfirepvp.astralsorcery.common.entity.item.EntityItemHighlighted",221
+"Astral Sorcery","astralsorcery:item_starmetal","hellfirepvp.astralsorcery.common.entity.item.EntityStarmetal",224
+"Astral Sorcery","astralsorcery:nocturnal_spark","hellfirepvp.astralsorcery.common.entity.EntityNocturnalSpark",217
+"Astral Sorcery","astralsorcery:observatory_helper","hellfirepvp.astralsorcery.common.entity.technical.EntityObservatoryHelper",225
+"Astral Sorcery","astralsorcery:spectral_tool","hellfirepvp.astralsorcery.common.entity.EntitySpectralTool",220
+"Autumnity","autumnity:falling_head_block","com.minecraftabnormals.autumnity.common.entity.item.FallingHeadBlockEntity",469
+"Autumnity","autumnity:snail","com.minecraftabnormals.autumnity.common.entity.passive.SnailEntity",466
+"Autumnity","autumnity:turkey","com.minecraftabnormals.autumnity.common.entity.passive.TurkeyEntity",467
+"Autumnity","autumnity:turkey_egg","com.minecraftabnormals.autumnity.common.entity.projectile.TurkeyEggEntity",468
+"Better Animals Plus","betteranimalsplus:badger","its_meow.betteranimalsplus.common.entity.EntityBadger",498
+"Better Animals Plus","betteranimalsplus:badgerdirt","its_meow.betteranimalsplus.common.entity.projectile.EntityBadgerDirt",521
+"Better Animals Plus","betteranimalsplus:barracuda","its_meow.betteranimalsplus.common.entity.EntityBarracuda",514
+"Better Animals Plus","betteranimalsplus:blackbear","its_meow.betteranimalsplus.common.entity.EntityBearNeutral",485
+"Better Animals Plus","betteranimalsplus:boar","its_meow.betteranimalsplus.common.entity.EntityBoar",495
+"Better Animals Plus","betteranimalsplus:bobbit_worm","its_meow.betteranimalsplus.common.entity.EntityBobbitWorm",506
+"Better Animals Plus","betteranimalsplus:brownbear","its_meow.betteranimalsplus.common.entity.EntityBear",484
+"Better Animals Plus","betteranimalsplus:butterfly","its_meow.betteranimalsplus.common.entity.EntityButterfly",512
+"Better Animals Plus","betteranimalsplus:coyote","its_meow.betteranimalsplus.common.entity.EntityCoyote",489
+"Better Animals Plus","betteranimalsplus:crab","its_meow.betteranimalsplus.common.entity.EntityCrab",501
+"Better Animals Plus","betteranimalsplus:deer","its_meow.betteranimalsplus.common.entity.EntityDeer",486
+"Better Animals Plus","betteranimalsplus:dragonfly","its_meow.betteranimalsplus.common.entity.EntityDragonfly",513
+"Better Animals Plus","betteranimalsplus:eel_freshwater","its_meow.betteranimalsplus.common.entity.EntityFreshwaterEel",508
+"Better Animals Plus","betteranimalsplus:eel_saltwater","its_meow.betteranimalsplus.common.entity.EntitySaltwaterEel",509
+"Better Animals Plus","betteranimalsplus:feralwolf","its_meow.betteranimalsplus.common.entity.EntityFeralWolf",488
+"Better Animals Plus","betteranimalsplus:flying_fish","its_meow.betteranimalsplus.common.entity.EntityFlyingFish",515
+"Better Animals Plus","betteranimalsplus:goat","its_meow.betteranimalsplus.common.entity.EntityGoat",491
+"Better Animals Plus","betteranimalsplus:golden_goose_egg","its_meow.betteranimalsplus.common.entity.projectile.EntityGoldenGooseEgg",525
+"Better Animals Plus","betteranimalsplus:goose","its_meow.betteranimalsplus.common.entity.EntityGoose",507
+"Better Animals Plus","betteranimalsplus:goose_egg","its_meow.betteranimalsplus.common.entity.projectile.EntityGooseEgg",524
+"Better Animals Plus","betteranimalsplus:horseshoecrab","its_meow.betteranimalsplus.common.entity.EntityHorseshoeCrab",502
+"Better Animals Plus","betteranimalsplus:jellyfish","its_meow.betteranimalsplus.common.entity.EntityJellyfish",492
+"Better Animals Plus","betteranimalsplus:lammergeier","its_meow.betteranimalsplus.common.entity.EntityLammergeier",487
+"Better Animals Plus","betteranimalsplus:lamprey","its_meow.betteranimalsplus.common.entity.EntityLamprey",499
+"Better Animals Plus","betteranimalsplus:moose","its_meow.betteranimalsplus.common.entity.EntityMoose",504
+"Better Animals Plus","betteranimalsplus:nautilus","its_meow.betteranimalsplus.common.entity.EntityNautilus",500
+"Better Animals Plus","betteranimalsplus:octopus","its_meow.betteranimalsplus.common.entity.EntityOctopus",519
+"Better Animals Plus","betteranimalsplus:pheasant","its_meow.betteranimalsplus.common.entity.EntityPheasant",493
+"Better Animals Plus","betteranimalsplus:pheasant_egg","its_meow.betteranimalsplus.common.entity.projectile.EntityPheasantEgg",522
+"Better Animals Plus","betteranimalsplus:piranha","its_meow.betteranimalsplus.common.entity.EntityPiranha",518
+"Better Animals Plus","betteranimalsplus:reindeer","its_meow.betteranimalsplus.common.entity.EntityReindeer",494
+"Better Animals Plus","betteranimalsplus:shark","its_meow.betteranimalsplus.common.entity.EntityShark",503
+"Better Animals Plus","betteranimalsplus:songbird","its_meow.betteranimalsplus.common.entity.EntitySongbird",497
+"Better Animals Plus","betteranimalsplus:squid_colossal","its_meow.betteranimalsplus.common.entity.EntityColossalSquid",516
+"Better Animals Plus","betteranimalsplus:squid_giant","its_meow.betteranimalsplus.common.entity.EntityGiantSquid",517
+"Better Animals Plus","betteranimalsplus:squirrel","its_meow.betteranimalsplus.common.entity.EntitySquirrel",496
+"Better Animals Plus","betteranimalsplus:tarantula","its_meow.betteranimalsplus.common.entity.EntityTarantula",490
+"Better Animals Plus","betteranimalsplus:tarantulahair","its_meow.betteranimalsplus.common.entity.projectile.EntityTarantulaHair",520
+"Better Animals Plus","betteranimalsplus:turkey","its_meow.betteranimalsplus.common.entity.EntityTurkey",505
+"Better Animals Plus","betteranimalsplus:turkey_egg","its_meow.betteranimalsplus.common.entity.projectile.EntityTurkeyEgg",523
+"Better Animals Plus","betteranimalsplus:walrus","its_meow.betteranimalsplus.common.entity.EntityWalrus",511
+"Better Animals Plus","betteranimalsplus:whale","its_meow.betteranimalsplus.common.entity.EntityWhale",510
+"BetterEnd Forge","betterendforge:cubozoa","mod.beethoven92.betterendforge.common.entity.CubozoaEntity",138
+"BetterEnd Forge","betterendforge:dragonfly","mod.beethoven92.betterendforge.common.entity.DragonflyEntity",135
+"BetterEnd Forge","betterendforge:end_fish","mod.beethoven92.betterendforge.common.entity.EndFishEntity",134
+"BetterEnd Forge","betterendforge:end_slime","mod.beethoven92.betterendforge.common.entity.EndSlimeEntity",137
+"BetterEnd Forge","betterendforge:shadow_walker","mod.beethoven92.betterendforge.common.entity.ShadowWalkerEntity",136
+"BetterEnd Forge","betterendforge:silk_moth","mod.beethoven92.betterendforge.common.entity.SilkMothEntity",139
+"Biomes O' Plenty","biomesoplenty:boat","biomesoplenty.common.entity.item.BoatEntityBOP",153
+"Blood Magic","bloodmagic:bloodlight","wayoftime.bloodmagic.entity.projectile.EntityBloodLight",530
+"Blood Magic","bloodmagic:shapedcharge","wayoftime.bloodmagic.entity.projectile.EntityShapedCharge",531
+"Blood Magic","bloodmagic:soulsnare","wayoftime.bloodmagic.entity.projectile.EntitySoulSnare",527
+"Blood Magic","bloodmagic:throwing_dagger","wayoftime.bloodmagic.entity.projectile.EntityThrowingDagger",528
+"Blood Magic","bloodmagic:throwing_dagger_syringe","wayoftime.bloodmagic.entity.projectile.EntityThrowingDaggerSyringe",529
+"Brazier","brazier:crazed","com.possible_triangle.brazier.entity.Crazed",474
+"Brazier","brazier:crazed_flame","com.possible_triangle.brazier.entity.CrazedFlame",475
+"Builders Crafts & Addition","buildersaddition:seat","com.mrh0.buildersaddition.entity.SeatEntity",420
+"Building Gadgets","buildinggadgets:construction_block_entity","com.direwolf20.buildinggadgets.common.entities.ConstructionBlockEntity",324
+"Buzzier Bees","buzzier_bees:black_bear","com.minecraftabnormals.buzzier_bees.common.entities.BlackBearEntity",471
+"Buzzier Bees","buzzier_bees:bumblebee","com.minecraftabnormals.buzzier_bees.common.entities.BumblebeeEntity",472
+"Buzzier Bees","buzzier_bees:grizzly_bear","com.minecraftabnormals.buzzier_bees.common.entities.GrizzlyBearEntity",470
+"Buzzier Bees","buzzier_bees:moobloom","com.minecraftabnormals.buzzier_bees.common.entities.MoobloomEntity",473
+"CC: Tweaked","computercraft:turtle_player","?",421
+"Clumps","clumps:xp_orb_big","com.blamejared.clumps.entities.EntityXPOrbBig",483
+"Create","create:contraption","com.simibubi.create.content.contraptions.components.structureMovement.OrientedContraptionEntity",478
+"Create","create:crafting_blueprint","com.simibubi.create.content.curiosities.tools.BlueprintEntity",477
+"Create","create:gantry_contraption","com.simibubi.create.content.contraptions.components.structureMovement.gantry.GantryContraptionEntity",480
+"Create","create:potato_projectile","com.simibubi.create.content.curiosities.weapons.PotatoProjectileEntity",481
+"Create","create:seat","com.simibubi.create.content.contraptions.components.actors.SeatEntity",482
+"Create","create:stationary_contraption","com.simibubi.create.content.contraptions.components.structureMovement.ControlledContraptionEntity",479
+"Create","create:super_glue","com.simibubi.create.content.contraptions.components.structureMovement.glue.SuperGlueEntity",476
+"Create Crafts & Additions","createaddition:overcharged_hammer","com.mrh0.createaddition.entities.overcharged_hammer.OverchargedHammerEntity",545
+"Eidolon","eidolon:bonechill_projectile","elucent.eidolon.entity.BonechillProjectileEntity",244
+"Eidolon","eidolon:chant_caster","elucent.eidolon.entity.ChantCasterEntity",246
+"Eidolon","eidolon:necromancer","elucent.eidolon.entity.NecromancerEntity",247
+"Eidolon","eidolon:necromancer_spell","elucent.eidolon.entity.NecromancerSpellEntity",245
+"Eidolon","eidolon:soulfire_projectile","elucent.eidolon.entity.SoulfireProjectileEntity",243
+"Eidolon","eidolon:wraith","elucent.eidolon.entity.WraithEntity",242
+"Eidolon","eidolon:zombie_brute","elucent.eidolon.entity.ZombieBruteEntity",241
+"Ender Mail","endermail:ender_mailman","com.chaosthedude.endermail.entity.EnderMailmanEntity",216
+"Environmental","environmental:deer","com.minecraftabnormals.environmental.common.entity.DeerEntity",425
+"Environmental","environmental:duck","com.minecraftabnormals.environmental.common.entity.DuckEntity",424
+"Environmental","environmental:duck_egg","com.minecraftabnormals.environmental.common.entity.DuckEggEntity",429
+"Environmental","environmental:fennec_fox","com.minecraftabnormals.environmental.common.entity.FennecFoxEntity",428
+"Environmental","environmental:koi","com.minecraftabnormals.environmental.common.entity.KoiEntity",427
+"Environmental","environmental:mud_ball","com.minecraftabnormals.environmental.common.entity.MudBallEntity",430
+"Environmental","environmental:slabfish","com.minecraftabnormals.environmental.common.entity.SlabfishEntity",423
+"Environmental","environmental:yak","com.minecraftabnormals.environmental.common.entity.YakEntity",426
+"Etched","etched:minecart_jukebox","me.jaackson.etched.common.entity.MinecartJukebox",123
+"Immersive Engineering","immersiveengineering:cart_metalbarrel","blusunrize.immersiveengineering.common.entities.MetalBarrelMinecartEntity",175
+"Immersive Engineering","immersiveengineering:cart_reinforcedcrate","blusunrize.immersiveengineering.common.entities.ReinforcedCrateMinecartEntity",173
+"Immersive Engineering","immersiveengineering:cart_woodenbarrel","blusunrize.immersiveengineering.common.entities.BarrelMinecartEntity",174
+"Immersive Engineering","immersiveengineering:cart_woodencrate","blusunrize.immersiveengineering.common.entities.CrateMinecartEntity",172
+"Immersive Engineering","immersiveengineering:chemthrower_shot","blusunrize.immersiveengineering.common.entities.ChemthrowerShotEntity",163
+"Immersive Engineering","immersiveengineering:explosive","blusunrize.immersiveengineering.common.entities.IEExplosiveEntity",165
+"Immersive Engineering","immersiveengineering:fluorescent_tube","blusunrize.immersiveengineering.common.entities.FluorescentTubeEntity",164
+"Immersive Engineering","immersiveengineering:railgun_shot","blusunrize.immersiveengineering.common.entities.RailgunShotEntity",166
+"Immersive Engineering","immersiveengineering:revolver_shot_flare","blusunrize.immersiveengineering.common.entities.RevolvershotFlareEntity",168
+"Immersive Engineering","immersiveengineering:revolver_shot_homing","blusunrize.immersiveengineering.common.entities.RevolvershotHomingEntity",169
+"Immersive Engineering","immersiveengineering:revolver_shot_wolfpack","blusunrize.immersiveengineering.common.entities.WolfpackShotEntity",171
+"Immersive Engineering","immersiveengineering:revolvershot","blusunrize.immersiveengineering.common.entities.RevolvershotEntity",167
+"Immersive Engineering","immersiveengineering:sawblade","blusunrize.immersiveengineering.common.entities.SawbladeEntity",176
+"Immersive Engineering","immersiveengineering:skyline_hook","blusunrize.immersiveengineering.common.entities.SkylineHookEntity",170
+"Immersive Petroleum","immersivepetroleum:speedboat","flaxbeard.immersivepetroleum.common.entity.MotorboatEntity",162
+"Industrial Foregoing","industrialforegoing:infinity_nuke","com.buuz135.industrial.entity.InfinityNukeEntity",142
+"Industrial Foregoing","industrialforegoing:launcher_projectile_entity","com.buuz135.industrial.entity.InfinityLauncherProjectileEntity",141
+"Industrial Foregoing","industrialforegoing:trident_entity","com.buuz135.industrial.entity.InfinityTridentEntity",140
+"Infernal Expansion","infernalexp:ascus_bomb","org.infernalstudios.infernalexp.entities.AscusBombEntity",117
+"Infernal Expansion","infernalexp:basalt_giant","org.infernalstudios.infernalexp.entities.BasaltGiantEntity",112
+"Infernal Expansion","infernalexp:blackstone_dwarf","org.infernalstudios.infernalexp.entities.BlackstoneDwarfEntity",113
+"Infernal Expansion","infernalexp:blindsight","org.infernalstudios.infernalexp.entities.BlindsightEntity",115
+"Infernal Expansion","infernalexp:embody","org.infernalstudios.infernalexp.entities.EmbodyEntity",111
+"Infernal Expansion","infernalexp:glowsilk_moth","org.infernalstudios.infernalexp.entities.GlowsilkMothEntity",116
+"Infernal Expansion","infernalexp:glowsquito","org.infernalstudios.infernalexp.entities.GlowsquitoEntity",114
+"Infernal Expansion","infernalexp:infernal_painting","org.infernalstudios.infernalexp.entities.InfernalPaintingEntity",120
+"Infernal Expansion","infernalexp:shroomloin","org.infernalstudios.infernalexp.entities.ShroomloinEntity",109
+"Infernal Expansion","infernalexp:throwable_brick","org.infernalstudios.infernalexp.entities.ThrowableBrickEntity",121
+"Infernal Expansion","infernalexp:throwable_fire_charge","org.infernalstudios.infernalexp.entities.ThrowableFireChargeEntity",119
+"Infernal Expansion","infernalexp:throwable_magma_cream","org.infernalstudios.infernalexp.entities.ThrowableMagmaCreamEntity",118
+"Infernal Expansion","infernalexp:throwable_nether_brick","org.infernalstudios.infernalexp.entities.ThrowableNetherBrickEntity",122
+"Infernal Expansion","infernalexp:voline","org.infernalstudios.infernalexp.entities.VolineEntity",108
+"Infernal Expansion","infernalexp:warpbeetle","org.infernalstudios.infernalexp.entities.WarpbeetleEntity",110
+"IntegratedDynamics","integrateddynamics:entityitemtargetted","org.cyclops.integrateddynamics.entity.item.EntityItemTargetted",182
+"Jellyfishing","jellyfishing:blue_jellyfish","blueduck.jellyfishing.entities.BlueJellyfishEntity",158
+"Jellyfishing","jellyfishing:jellyfish","blueduck.jellyfishing.entities.JellyfishEntity",157
+"Jellyfishing","jellyfishing:patty_wagon","blueduck.jellyfishing.entities.PattyWagonEntity",159
+"Lootr","lootr:lootr_minecart","noobanidus.mods.lootr.entity.LootrChestMinecartEntity",214
+"Lost Trinkets","losttrinkets:dark_vex","owmii.losttrinkets.entity.DarkVexEntity",363
+"Mekanism","mekanism:flame","mekanism.common.entity.EntityFlame",160
+"Mekanism","mekanism:robit","mekanism.common.entity.EntityRobit",161
+"Minecraft","minecraft:area_effect_cloud","net.minecraft.entity.AreaEffectCloudEntity",0
+"Minecraft","minecraft:armor_stand","net.minecraft.entity.item.ArmorStandEntity",1
+"Minecraft","minecraft:arrow","net.minecraft.entity.projectile.ArrowEntity",2
+"Minecraft","minecraft:bat","net.minecraft.entity.passive.BatEntity",3
+"Minecraft","minecraft:bee","net.minecraft.entity.passive.BeeEntity",4
+"Minecraft","minecraft:blaze","net.minecraft.entity.monster.BlazeEntity",5
+"Minecraft","minecraft:boat","net.minecraft.entity.item.BoatEntity",6
+"Minecraft","minecraft:cat","net.minecraft.entity.passive.CatEntity",7
+"Minecraft","minecraft:cave_spider","net.minecraft.entity.monster.CaveSpiderEntity",8
+"Minecraft","minecraft:chest_minecart","net.minecraft.entity.item.minecart.ChestMinecartEntity",46
+"Minecraft","minecraft:chicken","net.minecraft.entity.passive.ChickenEntity",9
+"Minecraft","minecraft:cod","net.minecraft.entity.passive.fish.CodEntity",10
+"Minecraft","minecraft:command_block_minecart","net.minecraft.entity.item.minecart.CommandBlockMinecartEntity",47
+"Minecraft","minecraft:cow","net.minecraft.entity.passive.CowEntity",11
+"Minecraft","minecraft:creeper","net.minecraft.entity.monster.CreeperEntity",12
+"Minecraft","minecraft:dolphin","net.minecraft.entity.passive.DolphinEntity",13
+"Minecraft","minecraft:donkey","net.minecraft.entity.passive.horse.DonkeyEntity",14
+"Minecraft","minecraft:dragon_fireball","net.minecraft.entity.projectile.DragonFireballEntity",15
+"Minecraft","minecraft:drowned","net.minecraft.entity.monster.DrownedEntity",16
+"Minecraft","minecraft:egg","net.minecraft.entity.projectile.EggEntity",84
+"Minecraft","minecraft:elder_guardian","net.minecraft.entity.monster.ElderGuardianEntity",17
+"Minecraft","minecraft:end_crystal","net.minecraft.entity.item.EnderCrystalEntity",18
+"Minecraft","minecraft:ender_dragon","net.minecraft.entity.boss.dragon.EnderDragonEntity",19
+"Minecraft","minecraft:ender_pearl","net.minecraft.entity.item.EnderPearlEntity",85
+"Minecraft","minecraft:enderman","net.minecraft.entity.monster.EndermanEntity",20
+"Minecraft","minecraft:endermite","net.minecraft.entity.monster.EndermiteEntity",21
+"Minecraft","minecraft:evoker","net.minecraft.entity.monster.EvokerEntity",22
+"Minecraft","minecraft:evoker_fangs","net.minecraft.entity.projectile.EvokerFangsEntity",23
+"Minecraft","minecraft:experience_bottle","net.minecraft.entity.item.ExperienceBottleEntity",86
+"Minecraft","minecraft:experience_orb","net.minecraft.entity.item.ExperienceOrbEntity",24
+"Minecraft","minecraft:eye_of_ender","net.minecraft.entity.projectile.EyeOfEnderEntity",25
+"Minecraft","minecraft:falling_block","net.minecraft.entity.item.FallingBlockEntity",26
+"Minecraft","minecraft:fireball","net.minecraft.entity.projectile.FireballEntity",39
+"Minecraft","minecraft:firework_rocket","net.minecraft.entity.projectile.FireworkRocketEntity",27
+"Minecraft","minecraft:fishing_bobber","?",107
+"Minecraft","minecraft:fox","net.minecraft.entity.passive.FoxEntity",28
+"Minecraft","minecraft:furnace_minecart","net.minecraft.entity.item.minecart.FurnaceMinecartEntity",48
+"Minecraft","minecraft:ghast","net.minecraft.entity.monster.GhastEntity",29
+"Minecraft","minecraft:giant","net.minecraft.entity.monster.GiantEntity",30
+"Minecraft","minecraft:guardian","net.minecraft.entity.monster.GuardianEntity",31
+"Minecraft","minecraft:hoglin","net.minecraft.entity.monster.HoglinEntity",32
+"Minecraft","minecraft:hopper_minecart","net.minecraft.entity.item.minecart.HopperMinecartEntity",49
+"Minecraft","minecraft:horse","net.minecraft.entity.passive.horse.HorseEntity",33
+"Minecraft","minecraft:husk","net.minecraft.entity.monster.HuskEntity",34
+"Minecraft","minecraft:illusioner","net.minecraft.entity.monster.IllusionerEntity",35
+"Minecraft","minecraft:iron_golem","net.minecraft.entity.passive.IronGolemEntity",36
+"Minecraft","minecraft:item","net.minecraft.entity.item.ItemEntity",37
+"Minecraft","minecraft:item_frame","net.minecraft.entity.item.ItemFrameEntity",38
+"Minecraft","minecraft:leash_knot","net.minecraft.entity.item.LeashKnotEntity",40
+"Minecraft","minecraft:lightning_bolt","net.minecraft.entity.effect.LightningBoltEntity",41
+"Minecraft","minecraft:llama","net.minecraft.entity.passive.horse.LlamaEntity",42
+"Minecraft","minecraft:llama_spit","net.minecraft.entity.projectile.LlamaSpitEntity",43
+"Minecraft","minecraft:magma_cube","net.minecraft.entity.monster.MagmaCubeEntity",44
+"Minecraft","minecraft:minecart","net.minecraft.entity.item.minecart.MinecartEntity",45
+"Minecraft","minecraft:mooshroom","net.minecraft.entity.passive.MooshroomEntity",53
+"Minecraft","minecraft:mule","net.minecraft.entity.passive.horse.MuleEntity",52
+"Minecraft","minecraft:ocelot","net.minecraft.entity.passive.OcelotEntity",54
+"Minecraft","minecraft:painting","net.minecraft.entity.item.PaintingEntity",55
+"Minecraft","minecraft:panda","net.minecraft.entity.passive.PandaEntity",56
+"Minecraft","minecraft:parrot","net.minecraft.entity.passive.ParrotEntity",57
+"Minecraft","minecraft:phantom","net.minecraft.entity.monster.PhantomEntity",58
+"Minecraft","minecraft:pig","net.minecraft.entity.passive.PigEntity",59
+"Minecraft","minecraft:piglin","net.minecraft.entity.monster.piglin.PiglinEntity",60
+"Minecraft","minecraft:piglin_brute","net.minecraft.entity.monster.piglin.PiglinBruteEntity",61
+"Minecraft","minecraft:pillager","net.minecraft.entity.monster.PillagerEntity",62
+"Minecraft","minecraft:player","?",106
+"Minecraft","minecraft:polar_bear","net.minecraft.entity.passive.PolarBearEntity",63
+"Minecraft","minecraft:potion","net.minecraft.entity.projectile.PotionEntity",87
+"Minecraft","minecraft:pufferfish","net.minecraft.entity.passive.fish.PufferfishEntity",65
+"Minecraft","minecraft:rabbit","net.minecraft.entity.passive.RabbitEntity",66
+"Minecraft","minecraft:ravager","net.minecraft.entity.monster.RavagerEntity",67
+"Minecraft","minecraft:salmon","net.minecraft.entity.passive.fish.SalmonEntity",68
+"Minecraft","minecraft:sheep","net.minecraft.entity.passive.SheepEntity",69
+"Minecraft","minecraft:shulker","net.minecraft.entity.monster.ShulkerEntity",70
+"Minecraft","minecraft:shulker_bullet","net.minecraft.entity.projectile.ShulkerBulletEntity",71
+"Minecraft","minecraft:silverfish","net.minecraft.entity.monster.SilverfishEntity",72
+"Minecraft","minecraft:skeleton","net.minecraft.entity.monster.SkeletonEntity",73
+"Minecraft","minecraft:skeleton_horse","net.minecraft.entity.passive.horse.SkeletonHorseEntity",74
+"Minecraft","minecraft:slime","net.minecraft.entity.monster.SlimeEntity",75
+"Minecraft","minecraft:small_fireball","net.minecraft.entity.projectile.SmallFireballEntity",76
+"Minecraft","minecraft:snow_golem","net.minecraft.entity.passive.SnowGolemEntity",77
+"Minecraft","minecraft:snowball","net.minecraft.entity.projectile.SnowballEntity",78
+"Minecraft","minecraft:spawner_minecart","net.minecraft.entity.item.minecart.SpawnerMinecartEntity",50
+"Minecraft","minecraft:spectral_arrow","net.minecraft.entity.projectile.SpectralArrowEntity",79
+"Minecraft","minecraft:spider","net.minecraft.entity.monster.SpiderEntity",80
+"Minecraft","minecraft:squid","net.minecraft.entity.passive.SquidEntity",81
+"Minecraft","minecraft:stray","net.minecraft.entity.monster.StrayEntity",82
+"Minecraft","minecraft:strider","net.minecraft.entity.passive.StriderEntity",83
+"Minecraft","minecraft:tnt","net.minecraft.entity.item.TNTEntity",64
+"Minecraft","minecraft:tnt_minecart","net.minecraft.entity.item.minecart.TNTMinecartEntity",51
+"Minecraft","minecraft:trader_llama","net.minecraft.entity.passive.horse.TraderLlamaEntity",89
+"Minecraft","minecraft:trident","net.minecraft.entity.projectile.TridentEntity",88
+"Minecraft","minecraft:tropical_fish","net.minecraft.entity.passive.fish.TropicalFishEntity",90
+"Minecraft","minecraft:turtle","net.minecraft.entity.passive.TurtleEntity",91
+"Minecraft","minecraft:vex","net.minecraft.entity.monster.VexEntity",92
+"Minecraft","minecraft:villager","net.minecraft.entity.merchant.villager.VillagerEntity",93
+"Minecraft","minecraft:vindicator","net.minecraft.entity.monster.VindicatorEntity",94
+"Minecraft","minecraft:wandering_trader","net.minecraft.entity.merchant.villager.WanderingTraderEntity",95
+"Minecraft","minecraft:witch","net.minecraft.entity.monster.WitchEntity",96
+"Minecraft","minecraft:wither","net.minecraft.entity.boss.WitherEntity",97
+"Minecraft","minecraft:wither_skeleton","net.minecraft.entity.monster.WitherSkeletonEntity",98
+"Minecraft","minecraft:wither_skull","net.minecraft.entity.projectile.WitherSkullEntity",99
+"Minecraft","minecraft:wolf","net.minecraft.entity.passive.WolfEntity",100
+"Minecraft","minecraft:zoglin","net.minecraft.entity.monster.ZoglinEntity",101
+"Minecraft","minecraft:zombie","net.minecraft.entity.monster.ZombieEntity",102
+"Minecraft","minecraft:zombie_horse","net.minecraft.entity.passive.horse.ZombieHorseEntity",103
+"Minecraft","minecraft:zombie_villager","net.minecraft.entity.monster.ZombieVillagerEntity",104
+"Minecraft","minecraft:zombified_piglin","net.minecraft.entity.monster.ZombifiedPiglinEntity",105
+"Oh The Biomes You'll Go","byg:boat","corgiaoc.byg.common.entity.boat.BYGBoatEntity",215
+"Resourceful Bees","resourcefulbees:coal_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",367
+"Resourceful Bees","resourcefulbees:creeper_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",368
+"Resourceful Bees","resourcefulbees:diamond_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",369
+"Resourceful Bees","resourcefulbees:dragon_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",370
+"Resourceful Bees","resourcefulbees:dungeon_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",371
+"Resourceful Bees","resourcefulbees:emerald_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",372
+"Resourceful Bees","resourcefulbees:ender_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",373
+"Resourceful Bees","resourcefulbees:gold_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",374
+"Resourceful Bees","resourcefulbees:icy_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",375
+"Resourceful Bees","resourcefulbees:iron_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",376
+"Resourceful Bees","resourcefulbees:kitten_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",365
+"Resourceful Bees","resourcefulbees:lapis_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",377
+"Resourceful Bees","resourcefulbees:nether_quartz_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",379
+"Resourceful Bees","resourcefulbees:netherite_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",378
+"Resourceful Bees","resourcefulbees:oreo_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",364
+"Resourceful Bees","resourcefulbees:pigman_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",380
+"Resourceful Bees","resourcefulbees:redstone_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",381
+"Resourceful Bees","resourcefulbees:rgbee_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",382
+"Resourceful Bees","resourcefulbees:skeleton_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",383
+"Resourceful Bees","resourcefulbees:slimy_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",384
+"Resourceful Bees","resourcefulbees:wither_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",385
+"Resourceful Bees","resourcefulbees:yeti_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",366
+"Resourceful Bees","resourcefulbees:zombie_bee","com.resourcefulbees.resourcefulbees.entity.passive.ResourcefulBee",386
+"Savage & Ravage","savageandravage:burning_banner","com.minecraftabnormals.savageandravage.common.entity.BurningBannerEntity",460
+"Savage & Ravage","savageandravage:creepie","com.minecraftabnormals.savageandravage.common.entity.CreepieEntity",454
+"Savage & Ravage","savageandravage:executioner","com.minecraftabnormals.savageandravage.common.entity.ExecutionerEntity",462
+"Savage & Ravage","savageandravage:griefer","com.minecraftabnormals.savageandravage.common.entity.GrieferEntity",455
+"Savage & Ravage","savageandravage:ice_chunk","com.minecraftabnormals.savageandravage.common.entity.IceChunkEntity",464
+"Savage & Ravage","savageandravage:ice_cloud","com.minecraftabnormals.savageandravage.common.entity.IceCloudEntity",465
+"Savage & Ravage","savageandravage:iceologer","com.minecraftabnormals.savageandravage.common.entity.IceologerEntity",463
+"Savage & Ravage","savageandravage:mischief_arrow","com.minecraftabnormals.savageandravage.common.entity.MischiefArrowEntity",456
+"Savage & Ravage","savageandravage:rune_prison","com.minecraftabnormals.savageandravage.common.entity.RunePrisonEntity",461
+"Savage & Ravage","savageandravage:skeleton_villager","com.minecraftabnormals.savageandravage.common.entity.SkeletonVillagerEntity",457
+"Savage & Ravage","savageandravage:spore_bomb","com.minecraftabnormals.savageandravage.common.entity.block.SporeBombEntity",459
+"Savage & Ravage","savageandravage:spore_cloud","com.minecraftabnormals.savageandravage.common.entity.SporeCloudEntity",458
+"Silent Gear","silentgear:arrow","net.silentchaos512.gear.entity.projectile.GearArrowEntity",154
+"Silent Gear","silentgear:slingshot_projectile","net.silentchaos512.gear.entity.projectile.SlingshotProjectile",155
+"Silent's Gems 3","silentgems:chaos_wisp","net.silentchaos512.gems.entity.ChaosWispEntity",534
+"Silent's Gems 3","silentgems:chaos_wisp_shot","net.silentchaos512.gems.entity.projectile.ChaosWispShotEntity",535
+"Silent's Gems 3","silentgems:corrupted_slime","net.silentchaos512.gems.entity.CorruptedSlimeEntity",533
+"Silent's Gems 3","silentgems:ender_slime","net.silentchaos512.gems.entity.EnderSlimeEntity",532
+"Silent's Gems 3","silentgems:fire_wisp","net.silentchaos512.gems.entity.FireWispEntity",536
+"Silent's Gems 3","silentgems:fire_wisp_shot","net.silentchaos512.gems.entity.projectile.FireWispShotEntity",537
+"Silent's Gems 3","silentgems:ice_wisp","net.silentchaos512.gems.entity.IceWispEntity",538
+"Silent's Gems 3","silentgems:ice_wisp_shot","net.silentchaos512.gems.entity.projectile.IceWispShotEntity",539
+"Silent's Gems 3","silentgems:lightning_wisp","net.silentchaos512.gems.entity.LightningWispEntity",540
+"Silent's Gems 3","silentgems:lightning_wisp_shot","net.silentchaos512.gems.entity.projectile.LightningWispShotEntity",541
+"Silent's Gems 3","silentgems:water_wisp","net.silentchaos512.gems.entity.WaterWispEntity",542
+"Silent's Gems 3","silentgems:water_wisp_shot","net.silentchaos512.gems.entity.projectile.WaterWispShotEntity",543
+"Snow! Real Magic!","snowrealmagic:snow","snownee.snow.entity.FallingSnowEntity",156
+"Supplementaries","supplementaries:amethyst_arrow","net.mehvahdjukaar.supplementaries.entities.AmethystArrowEntity",130
+"Supplementaries","supplementaries:amethyst_shard","net.mehvahdjukaar.supplementaries.entities.ShardProjectileEntity",131
+"Supplementaries","supplementaries:bomb","net.mehvahdjukaar.supplementaries.entities.BombEntity",128
+"Supplementaries","supplementaries:brick_projectile","net.mehvahdjukaar.supplementaries.entities.ThrowableBrickEntity",127
+"Supplementaries","supplementaries:firefly","net.mehvahdjukaar.supplementaries.entities.FireflyEntity",126
+"Supplementaries","supplementaries:flint_shard","net.mehvahdjukaar.supplementaries.entities.ShardProjectileEntity",132
+"Supplementaries","supplementaries:label","net.mehvahdjukaar.supplementaries.entities.LabelEntity",125
+"Supplementaries","supplementaries:red_merchant","net.mehvahdjukaar.supplementaries.entities.RedMerchantEntity",124
+"Supplementaries","supplementaries:rope_arrow","net.mehvahdjukaar.supplementaries.entities.RopeArrowEntity",129
+"Supplementaries","supplementaries:slingshot_projectile","net.mehvahdjukaar.supplementaries.entities.SlingshotProjectileEntity",133
+"The Afterlight","the_afterlight:corrupted_skeleton","theafterlight.entity.CorruptedSkeletonEntity$CustomEntity",249
+"The Afterlight","the_afterlight:crimson_skeleton","theafterlight.entity.CrimsonSkeletonEntity$CustomEntity",253
+"The Afterlight","the_afterlight:deep_skeleton_dead","theafterlight.entity.DeepSkeletonDeadEntity$CustomEntity",250
+"The Afterlight","the_afterlight:moonfox","theafterlight.entity.MoonfoxEntity$CustomEntity",248
+"The Afterlight","the_afterlight:moonspawn","theafterlight.entity.MoonspawnEntity$CustomEntity",252
+"The Afterlight","the_afterlight:scuttlebug","theafterlight.entity.ScuttlebugEntity$CustomEntity",251
+"The Endergetic Expansion","endergetic:bolloom_balloon","com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomBalloonEntity",449
+"The Endergetic Expansion","endergetic:bolloom_fruit","com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomFruitEntity",446
+"The Endergetic Expansion","endergetic:bolloom_knot","com.minecraftabnormals.endergetic.common.entities.bolloom.BolloomKnotEntity",450
+"The Endergetic Expansion","endergetic:boof_block","com.minecraftabnormals.endergetic.common.entities.BoofBlockEntity",447
+"The Endergetic Expansion","endergetic:booflo","com.minecraftabnormals.endergetic.common.entities.booflo.BoofloEntity",453
+"The Endergetic Expansion","endergetic:booflo_adolescent","com.minecraftabnormals.endergetic.common.entities.booflo.BoofloAdolescentEntity",452
+"The Endergetic Expansion","endergetic:booflo_baby","com.minecraftabnormals.endergetic.common.entities.booflo.BoofloBabyEntity",451
+"The Endergetic Expansion","endergetic:poise_cluster","com.minecraftabnormals.endergetic.common.entities.PoiseClusterEntity",445
+"The Endergetic Expansion","endergetic:puff_bug","com.minecraftabnormals.endergetic.common.entities.puffbug.PuffBugEntity",448
+"Thermal Series","thermal:basalz","cofh.thermal.core.entity.monster.BasalzEntity",325
+"Thermal Series","thermal:basalz_projectile","cofh.thermal.core.entity.projectile.BasalzProjectileEntity",328
+"Thermal Series","thermal:blitz","cofh.thermal.core.entity.monster.BlitzEntity",327
+"Thermal Series","thermal:blitz_projectile","cofh.thermal.core.entity.projectile.BlitzProjectileEntity",330
+"Thermal Series","thermal:blizz","cofh.thermal.core.entity.monster.BlizzEntity",326
+"Thermal Series","thermal:blizz_projectile","cofh.thermal.core.entity.projectile.BlizzProjectileEntity",329
+"Thermal Series","thermal:earth_grenade","cofh.thermal.core.entity.projectile.EarthGrenadeEntity",338
+"Thermal Series","thermal:earth_tnt","cofh.thermal.core.entity.item.EarthTNTEntity",348
+"Thermal Series","thermal:earth_tnt_minecart","cofh.thermal.locomotion.entity.EarthTNTMinecartEntity",359
+"Thermal Series","thermal:ender_grenade","cofh.thermal.core.entity.projectile.EnderGrenadeEntity",335
+"Thermal Series","thermal:ender_tnt","cofh.thermal.core.entity.item.EnderTNTEntity",345
+"Thermal Series","thermal:ender_tnt_minecart","cofh.thermal.locomotion.entity.EnderTNTMinecartEntity",356
+"Thermal Series","thermal:fire_grenade","cofh.thermal.core.entity.projectile.FireGrenadeEntity",337
+"Thermal Series","thermal:fire_tnt","cofh.thermal.core.entity.item.FireTNTEntity",347
+"Thermal Series","thermal:fire_tnt_minecart","cofh.thermal.locomotion.entity.FireTNTMinecartEntity",358
+"Thermal Series","thermal:glowstone_grenade","cofh.thermal.core.entity.projectile.GlowstoneGrenadeEntity",334
+"Thermal Series","thermal:glowstone_tnt","cofh.thermal.core.entity.item.GlowstoneTNTEntity",344
+"Thermal Series","thermal:glowstone_tnt_minecart","cofh.thermal.locomotion.entity.GlowstoneTNTMinecartEntity",355
+"Thermal Series","thermal:grenade","cofh.thermal.core.entity.projectile.ExplosiveGrenadeEntity",331
+"Thermal Series","thermal:ice_grenade","cofh.thermal.core.entity.projectile.IceGrenadeEntity",339
+"Thermal Series","thermal:ice_tnt","cofh.thermal.core.entity.item.IceTNTEntity",349
+"Thermal Series","thermal:ice_tnt_minecart","cofh.thermal.locomotion.entity.IceTNTMinecartEntity",360
+"Thermal Series","thermal:lightning_grenade","cofh.thermal.core.entity.projectile.LightningGrenadeEntity",340
+"Thermal Series","thermal:lightning_tnt","cofh.thermal.core.entity.item.LightningTNTEntity",350
+"Thermal Series","thermal:lightning_tnt_minecart","cofh.thermal.locomotion.entity.LightningTNTMinecartEntity",361
+"Thermal Series","thermal:nuke_grenade","cofh.thermal.core.entity.projectile.NukeGrenadeEntity",341
+"Thermal Series","thermal:nuke_tnt","cofh.thermal.core.entity.item.NukeTNTEntity",351
+"Thermal Series","thermal:nuke_tnt_minecart","cofh.thermal.locomotion.entity.NukeTNTMinecartEntity",362
+"Thermal Series","thermal:phyto_grenade","cofh.thermal.core.entity.projectile.PhytoGrenadeEntity",336
+"Thermal Series","thermal:phyto_tnt","cofh.thermal.core.entity.item.PhytoTNTEntity",346
+"Thermal Series","thermal:phyto_tnt_minecart","cofh.thermal.locomotion.entity.PhytoTNTMinecartEntity",357
+"Thermal Series","thermal:redstone_grenade","cofh.thermal.core.entity.projectile.RedstoneGrenadeEntity",333
+"Thermal Series","thermal:redstone_tnt","cofh.thermal.core.entity.item.RedstoneTNTEntity",343
+"Thermal Series","thermal:redstone_tnt_minecart","cofh.thermal.locomotion.entity.RedstoneTNTMinecartEntity",354
+"Thermal Series","thermal:slime_grenade","cofh.thermal.core.entity.projectile.SlimeGrenadeEntity",332
+"Thermal Series","thermal:slime_tnt","cofh.thermal.core.entity.item.SlimeTNTEntity",342
+"Thermal Series","thermal:slime_tnt_minecart","cofh.thermal.locomotion.entity.SlimeTNTMinecartEntity",353
+"Thermal Series","thermal:underwater_minecart","cofh.thermal.locomotion.entity.UnderwaterMinecartEntity",352
+"Traverse: Reforged","traverse:fir_boat","epicsquid.traverse.entity.TerraformBoatEntity$FirBoatEntity",526
+"Upgrade Aquatic","upgrade_aquatic:box_jellyfish","com.minecraftabnormals.upgrade_aquatic.common.entities.jellyfish.BoxJellyfishEntity",442
+"Upgrade Aquatic","upgrade_aquatic:cassiopea_jellyfish","com.minecraftabnormals.upgrade_aquatic.common.entities.jellyfish.CassiopeaJellyfishEntity",443
+"Upgrade Aquatic","upgrade_aquatic:flare","com.minecraftabnormals.upgrade_aquatic.common.entities.FlareEntity",438
+"Upgrade Aquatic","upgrade_aquatic:glow_squid","com.minecraftabnormals.upgrade_aquatic.common.entities.GlowSquidEntity",441
+"Upgrade Aquatic","upgrade_aquatic:goose","com.minecraftabnormals.upgrade_aquatic.common.entities.GooseEntity",440
+"Upgrade Aquatic","upgrade_aquatic:great_thrasher","com.minecraftabnormals.upgrade_aquatic.common.entities.thrasher.GreatThrasherEntity",437
+"Upgrade Aquatic","upgrade_aquatic:immortal_jellyfish","com.minecraftabnormals.upgrade_aquatic.common.entities.jellyfish.ImmortalJellyfishEntity",444
+"Upgrade Aquatic","upgrade_aquatic:lionfish","com.minecraftabnormals.upgrade_aquatic.common.entities.LionfishEntity",435
+"Upgrade Aquatic","upgrade_aquatic:nautilus","com.minecraftabnormals.upgrade_aquatic.common.entities.NautilusEntity",432
+"Upgrade Aquatic","upgrade_aquatic:perch","com.minecraftabnormals.upgrade_aquatic.common.entities.PerchEntity",434
+"Upgrade Aquatic","upgrade_aquatic:pike","com.minecraftabnormals.upgrade_aquatic.common.entities.pike.PikeEntity",433
+"Upgrade Aquatic","upgrade_aquatic:sonar_wave","com.minecraftabnormals.upgrade_aquatic.common.entities.thrasher.SonarWaveEntity",431
+"Upgrade Aquatic","upgrade_aquatic:thrasher","com.minecraftabnormals.upgrade_aquatic.common.entities.thrasher.ThrasherEntity",436
+"Upgrade Aquatic","upgrade_aquatic:ululu","com.minecraftabnormals.upgrade_aquatic.common.entities.UluluEntity",439
+"Valhelsia Structures","valhelsia_structures:mossy_skeleton","com.stal111.valhelsia_structures.entity.MossySkeletonEntity",544
+"Vampirism","vampirism:advanced_hunter","de.teamlapen.vampirism.entity.hunter.AdvancedHunterEntity",183
+"Vampirism","vampirism:advanced_hunter_imob","de.teamlapen.vampirism.entity.hunter.AdvancedHunterEntity$IMob",184
+"Vampirism","vampirism:advanced_vampire","de.teamlapen.vampirism.entity.vampire.AdvancedVampireEntity",185
+"Vampirism","vampirism:advanced_vampire_imob","de.teamlapen.vampirism.entity.vampire.AdvancedVampireEntity$IMob",186
+"Vampirism","vampirism:blinding_bat","de.teamlapen.vampirism.entity.BlindingBatEntity",187
+"Vampirism","vampirism:converted_cow","de.teamlapen.vampirism.entity.converted.ConvertedCowEntity",191
+"Vampirism","vampirism:converted_creature","de.teamlapen.vampirism.entity.converted.ConvertedCreatureEntity",188
+"Vampirism","vampirism:converted_creature_imob","de.teamlapen.vampirism.entity.converted.ConvertedCreatureEntity$IMob",189
+"Vampirism","vampirism:converted_donkey","de.teamlapen.vampirism.entity.converted.ConvertedDonkeyEntity",209
+"Vampirism","vampirism:converted_horse","de.teamlapen.vampirism.entity.converted.ConvertedHorseEntity",207
+"Vampirism","vampirism:converted_mule","de.teamlapen.vampirism.entity.converted.ConvertedMuleEntity",210
+"Vampirism","vampirism:converted_sheep","de.teamlapen.vampirism.entity.converted.ConvertedSheepEntity",190
+"Vampirism","vampirism:crossbow_arrow","de.teamlapen.vampirism.entity.CrossbowArrowEntity",192
+"Vampirism","vampirism:dark_blood_projectile","de.teamlapen.vampirism.entity.DarkBloodProjectileEntity",193
+"Vampirism","vampirism:dummy_creature","de.teamlapen.vampirism.entity.vampire.DummyBittenAnimalEntity",194
+"Vampirism","vampirism:hunter","de.teamlapen.vampirism.entity.hunter.BasicHunterEntity",203
+"Vampirism","vampirism:hunter_imob","de.teamlapen.vampirism.entity.hunter.BasicHunterEntity$IMob",204
+"Vampirism","vampirism:hunter_minion","de.teamlapen.vampirism.entity.minion.HunterMinionEntity",211
+"Vampirism","vampirism:hunter_trainer","de.teamlapen.vampirism.entity.hunter.HunterTrainerEntity",195
+"Vampirism","vampirism:hunter_trainer_dummy","de.teamlapen.vampirism.entity.hunter.DummyHunterTrainerEntity",196
+"Vampirism","vampirism:particle_cloud","de.teamlapen.vampirism.entity.AreaParticleCloudEntity",197
+"Vampirism","vampirism:soul_orb","de.teamlapen.vampirism.entity.SoulOrbEntity",198
+"Vampirism","vampirism:task_master_hunter","de.teamlapen.vampirism.entity.hunter.HunterTaskMasterEntity",213
+"Vampirism","vampirism:task_master_vampire","de.teamlapen.vampirism.entity.vampire.VampireTaskMasterEntity",212
+"Vampirism","vampirism:throwable_item","de.teamlapen.vampirism.entity.ThrowableItemEntity",199
+"Vampirism","vampirism:vampire","de.teamlapen.vampirism.entity.vampire.BasicVampireEntity",200
+"Vampirism","vampirism:vampire_baron","de.teamlapen.vampirism.entity.vampire.VampireBaronEntity",202
+"Vampirism","vampirism:vampire_imob","de.teamlapen.vampirism.entity.vampire.BasicVampireEntity$IMob",201
+"Vampirism","vampirism:vampire_minion","de.teamlapen.vampirism.entity.minion.VampireMinionEntity",208
+"Vampirism","vampirism:villager_angry","de.teamlapen.vampirism.entity.hunter.AggressiveVillagerEntity",205
+"Vampirism","vampirism:villager_converted","de.teamlapen.vampirism.entity.converted.ConvertedVillagerEntity",206
+"Whisperwoods","whisperwoods:hidebehind","dev.itsmeow.whisperwoods.entity.EntityHidebehind",178
+"Whisperwoods","whisperwoods:hirschgeist","dev.itsmeow.whisperwoods.entity.EntityHirschgeist",180
+"Whisperwoods","whisperwoods:moth","dev.itsmeow.whisperwoods.entity.EntityMoth",177
+"Whisperwoods","whisperwoods:wisp","dev.itsmeow.whisperwoods.entity.EntityWisp",179
+"Whisperwoods","whisperwoods:zotzpyre","dev.itsmeow.whisperwoods.entity.EntityZotzpyre",181
+"Wyrmroost","wyrmroost:alpine","com.github.wolfshotz.wyrmroost.entities.dragon.AlpineEntity",236
+"Wyrmroost","wyrmroost:butterfly_leviathan","com.github.wolfshotz.wyrmroost.entities.dragon.ButterflyLeviathanEntity",231
+"Wyrmroost","wyrmroost:canari_wyvern","com.github.wolfshotz.wyrmroost.entities.dragon.CanariWyvernEntity",233
+"Wyrmroost","wyrmroost:coin_dragon","com.github.wolfshotz.wyrmroost.entities.dragon.CoinDragonEntity",235
+"Wyrmroost","wyrmroost:dragon_egg","com.github.wolfshotz.wyrmroost.entities.dragonegg.DragonEggEntity",237
+"Wyrmroost","wyrmroost:dragon_fruit_drake","com.github.wolfshotz.wyrmroost.entities.dragon.DragonFruitDrakeEntity",232
+"Wyrmroost","wyrmroost:fire_breath","com.github.wolfshotz.wyrmroost.entities.projectile.breath.FireBreathEntity",239
+"Wyrmroost","wyrmroost:geode_tipped_arrow","com.github.wolfshotz.wyrmroost.entities.projectile.GeodeTippedArrowEntity",238
+"Wyrmroost","wyrmroost:lesser_desertwyrm","com.github.wolfshotz.wyrmroost.entities.dragon.LDWyrmEntity",227
+"Wyrmroost","wyrmroost:overworld_drake","com.github.wolfshotz.wyrmroost.entities.dragon.OWDrakeEntity",228
+"Wyrmroost","wyrmroost:roost_stalker","com.github.wolfshotz.wyrmroost.entities.dragon.RoostStalkerEntity",230
+"Wyrmroost","wyrmroost:royal_red","com.github.wolfshotz.wyrmroost.entities.dragon.RoyalRedEntity",234
+"Wyrmroost","wyrmroost:silver_glider","com.github.wolfshotz.wyrmroost.entities.dragon.SilverGliderEntity",229
+"Wyrmroost","wyrmroost:wind_gust","com.github.wolfshotz.wyrmroost.entities.projectile.WindGustEntity",240

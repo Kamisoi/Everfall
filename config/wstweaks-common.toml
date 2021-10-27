@@ -6,7 +6,7 @@
 	fragvalue = 9
 	#The 1/n chance for a wither skeleton to drop a fragment.
 	#Range: 1 ~ 32767
-	fragchance = 1
+	fragchance = 16
 	#If skeletons outside of hell can be transformed into wither skeletons.
 	allbiomes = false
 	#The 1/n chance for wither skeletons outside hell to be transformed.  Requires allbiomes == true.
